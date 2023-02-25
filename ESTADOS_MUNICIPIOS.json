@@ -1,3 +1,4 @@
+{ "data": [
 { "NOMBRE_ESTADO":  "Aguascalientes", 
 "MUNICIPIOS": [
 { "NOMBRE_MUNICIPIO": "Aguascalientes"},
@@ -293,5 +294,6 @@
 { "NOMBRE_MUNICIPIO": "Villa Hidalgo"},
 { "NOMBRE_MUNICIPIO": "Villanueva"},
 { "NOMBRE_MUNICIPIO": "Zacatecas"}
+]}
 ]}
 
